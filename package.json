@@ -1,0 +1,23 @@
+{
+  "name": "red-green-blue",
+  "version": "0.0.0",
+  "description": "A Foundation layout exercise",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrbarbasa/red-green-blue.git"
+  },
+  "author": "Marifel Barbasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbarbasa/red-green-blue/issues"
+  },
+  "homepage": "https://github.com/mrbarbasa/red-green-blue",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-sass": "^1.1.0"
+  }
+}
